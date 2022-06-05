@@ -6,15 +6,14 @@
  - Tools [...]
 
 # Execution model
-
- Execution Model
- Operating System
- Synchronization
- System Architecture
- OpenCL
- Programming Model
- Virtual Machine
- Heterogeneous System
+ - Execution Model
+ - Operating System
+ - Synchronization
+ - System Architecture
+ - OpenCL
+ - Programming Model
+ - Virtual Machine
+ - Heterogeneous System
 
 # Execution model
 Compiler vs. Interpreter
@@ -46,13 +45,16 @@ Combined typing: C#, TypeScript, Objective-C, Dart
 
 
 
-# IDE [...]
+# IDE
+	[...]
  - Examples: PyCharm, IntelliJ IDEA, Visual Studio, Visual Studio Code
 
-# Source code [...]
+# Source code
+	[...]
 
-# Console [...]
+# Console
+	[...]
 
 
-
-# Data type [...]
+# Data type
+	[...]
