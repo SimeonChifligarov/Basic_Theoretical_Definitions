@@ -39,7 +39,7 @@ and security protocol widely implemented in browsers and Web servers.
     - HTTP request body
 	– optional data e.g., posted form fields
 
-# ### POST Request Method 
+### POST Request Method 
  - The POST method transfers data in the HTTP body
  - POST can send text and binary data e.g., upload files
 
@@ -63,7 +63,7 @@ and security protocol widely implemented in browsers and Web servers.
  	- 4xx: client error (e.g., "400 Bad Request", "401 Unauthorized", "404 Not Found", "409 Conflict")
  	- 5xx: server error (e.g., "500 Internal Server Error", "503 Service Unavailable")
 
-# ### Browser Redirection
+### Browser Redirection
  - This HTTP response (301 Moved Permanently) tells the browser to request another URL:
 	HTTP/1.1 301 Moved Permanently
 	Location: [enter URL here]
